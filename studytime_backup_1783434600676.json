@@ -1,0 +1,158 @@
+{
+  "version": 2,
+  "app": "tsumiki-study",
+  "exportedAt": "2026-07-07T14:30:00.670Z",
+  "studyHistory": [
+    {
+      "start": "2026-06-05T07:52:16.615Z",
+      "end": "2026-06-05T10:01:20.250Z",
+      "duration": 4500000,
+      "group": "",
+      "pauses": [
+        {
+          "start": "2026-06-05T08:05:21.205Z",
+          "end": "2026-06-05T08:06:41.853Z"
+        },
+        {
+          "start": "2026-06-05T08:54:24.681Z",
+          "end": "2026-06-05T09:13:27.095Z"
+        },
+        {
+          "start": "2026-06-05T09:13:35.681Z",
+          "end": "2026-06-05T09:13:52.005Z"
+        },
+        {
+          "start": "2026-06-05T09:17:23.830Z",
+          "end": "2026-06-05T09:37:02.737Z"
+        },
+        {
+          "start": "2026-06-05T09:57:55.120Z",
+          "end": "2026-06-05T10:01:20.250Z"
+        }
+      ]
+    },
+    {
+      "start": "2026-04-18T06:43:36.034Z",
+      "end": "2026-04-18T08:05:50.113Z",
+      "duration": 4934079,
+      "group": ""
+    },
+    {
+      "start": "2026-04-09T08:12:50.223Z",
+      "end": "2026-04-09T08:48:52.801Z",
+      "duration": 2162578,
+      "group": ""
+    },
+    {
+      "start": "2026-04-06T10:03:39.999Z",
+      "end": "2026-04-06T11:08:05.964Z",
+      "duration": 3628008,
+      "group": ""
+    },
+    {
+      "start": "2026-04-06T00:00:25.831Z",
+      "end": "2026-04-06T00:40:12.547Z",
+      "duration": 3601273,
+      "group": ""
+    },
+    {
+      "start": "2026-04-03T07:52:04.174Z",
+      "end": "2026-04-03T12:26:37.538Z",
+      "duration": 16473364,
+      "group": ""
+    },
+    {
+      "start": "2026-02-01T02:32:46.215Z",
+      "end": "2026-02-01T05:43:07.324Z",
+      "duration": 11421109,
+      "group": ""
+    },
+    {
+      "start": "2026-01-30T14:15:36.105Z",
+      "end": "2026-01-30T15:01:09.017Z",
+      "duration": 2732912,
+      "group": ""
+    },
+    {
+      "start": "2026-01-29T06:30:32.355Z",
+      "end": "2026-01-29T09:26:55.601Z",
+      "duration": 10583246,
+      "group": ""
+    },
+    {
+      "start": "2026-01-20T11:33:49.603Z",
+      "end": "2026-01-20T14:32:33.395Z",
+      "duration": 10723793,
+      "group": ""
+    },
+    {
+      "start": "2026-01-17T01:33:23.783Z",
+      "end": "2026-01-17T03:51:42.561Z",
+      "duration": 8298778,
+      "group": ""
+    },
+    {
+      "start": "2026-01-15T16:02:39.436Z",
+      "end": "2026-01-15T19:59:39.763Z",
+      "duration": 17911432,
+      "group": ""
+    }
+  ],
+  "todos": [],
+  "settings": {
+    "theme": "green",
+    "last_valid_theme": "green",
+    "mode": "light",
+    "app_language": "ja",
+    "font_ja": "Zen Maru Gothic",
+    "font_en": "Jost",
+    "feature_music": "true",
+    "feature_todo": "true",
+    "feature_title_time": "false",
+    "feature_loading_anim": "true",
+    "feature_stop_music_on_timer_end": "true",
+    "feature_music_resume_on_tap_after_reload": "true",
+    "music_resume_window_min": "5",
+    "lock_settings_during_timer": "true",
+    "feature_focus_mode_display": "true",
+    "focus_mode_enabled": "true",
+    "focus_duration": "30",
+    "break_duration": "10",
+    "session_info_custom_text": "さっさとやれ",
+    "graph_enabled": "true",
+    "graph_type": "area",
+    "graph_period": "all",
+    "graph_location": "stats",
+    "todo_v2_enabled": "true",
+    "todo_v2_prompt_shown": "true",
+    "todo_priority_colors": "{\"high\":\"#99BDA3\",\"normal\":\"#ADC29F\",\"low\":\"#BECFBA\"}",
+    "tutorial_completed": "true",
+    "dev_mode_enabled": "false",
+    "mini_player_enabled": "false",
+    "mini_player_hide_skip": "false",
+    "mini_player_position": "top-left",
+    "menu_mode": "bottom",
+    "menu_display": "icon_text",
+    "menu_fixed": "false",
+    "menu_order": "[\"timer\",\"stats\",\"list\",\"music\",\"todo\"]",
+    "music_playlists_v2": "{\"currentPlaylistId\":\"pl_1781834612501_74g4z1\",\"playlists\":[{\"id\":\"pl_1781834612501_74g4z1\",\"name\":\"寝れますやん\",\"tracks\":[{\"id\":1782315527060.309,\"title\":\"01_MoonlitPastPiano.mp3\"},{\"id\":1782315609243.715,\"title\":\"02_MoonLightPiano.mp3\"},{\"id\":1782315609248.3293,\"title\":\"03_FryMeToTheRestaurantPiano.mp3\"},{\"id\":1782339815007.415,\"title\":\"06_SeatedAroundTheTablePiano.mp3\"},{\"id\":1782339815013.092,\"title\":\"07_SeatForOneOrTwoAtTheMoonPiano.mp3\"}]},{\"id\":\"pl_1782659310921_ixdrdd\",\"name\":\"プレイリスト 2\",\"tracks\":[]}]}",
+    "music_shuffle": "true",
+    "mini_player_free_place": "true",
+    "auto_pip_primed": "false",
+    "feature_auto_pip": "false",
+    "music_current_track_id": "1782315527060.309",
+    "music_volume": "0.37",
+    "youtube_music_enabled": "true",
+    "mini_player_free_y": "0.00",
+    "music_current_playlist_id": "pl_1781834612501_74g4z1",
+    "flashcard_random_order": "true",
+    "mini_player_free_x": "0.00",
+    "music_loop": "false",
+    "tsumiki_has_visited": "true",
+    "flashcards": "{\"groups\":[{\"id\":\"mqn66idcpzvq3by1o\",\"name\":\"数学\",\"cards\":[{\"id\":\"mqn68kop1tc58u9n7\",\"type\":\"normal\",\"front\":\"ｱｱｱ\",\"back\":\"足りないものなーんだ?\",\"flip\":true},{\"id\":\"mqn69egmf4crecd2l\",\"type\":\"normal\",\"front\":\"僕らの人生\",\"back\":\"正解どこなーんだ?\",\"flip\":true},{\"id\":\"mqn69v4nlaeuuuzji\",\"type\":\"normal\",\"front\":\"探せよ\",\"back\":\"探せ\",\"flip\":true},{\"id\":\"mqn6a62en9m1ql5zv\",\"type\":\"normal\",\"front\":\"あー\",\"back\":\"例外ない\",\"flip\":true},{\"id\":\"mqn6d48mef61759st\",\"type\":\"normal\",\"front\":\"二進も三進も\",\"back\":\"零下以内なら\",\"flip\":true},{\"id\":\"mqn6dfh3t6sl7025l\",\"type\":\"normal\",\"front\":\"例外ない\",\"back\":\"正味クソゲーだ\",\"flip\":true},{\"id\":\"mqn6dycjb6xjfyuaw\",\"type\":\"normal\",\"front\":\"カラ空\",\"back\":\"回れ\",\"flip\":true}]}]}"
+  },
+  "excludes": [
+    "musicPlaylist",
+    "indexedDB:study_music_db"
+  ]
+}
