@@ -1,0 +1,303 @@
+{
+  "version": 3,
+  "app": "tsumiki-study",
+  "exportedAt": "2026-07-14T22:33:55.189Z",
+  "includes": [
+    "settings",
+    "history",
+    "todos",
+    "music"
+  ],
+  "excludes": [
+    "indexedDB:study_music_db"
+  ],
+  "studyHistory": [
+    {
+      "start": "2026-07-14T07:40:15.843Z",
+      "end": "2026-07-14T09:24:50.053Z",
+      "duration": 6274210,
+      "group": "",
+      "pauses": []
+    },
+    {
+      "start": "2026-07-13T06:59:57.697Z",
+      "end": "2026-07-13T09:18:19.402Z",
+      "duration": 8301705,
+      "group": "",
+      "pauses": []
+    },
+    {
+      "start": "2026-07-12T03:17:54.054Z",
+      "end": "2026-07-12T05:01:24.347Z",
+      "duration": 6210293,
+      "group": "",
+      "pauses": []
+    },
+    {
+      "start": "2026-07-09T07:34:13.632Z",
+      "end": "2026-07-09T08:32:34.353Z",
+      "duration": 3313686,
+      "group": "",
+      "pauses": [
+        {
+          "start": "2026-07-09T07:38:24.415Z",
+          "end": "2026-07-09T07:41:31.451Z"
+        }
+      ]
+    },
+    {
+      "start": "2026-06-24T07:14:10.004Z",
+      "end": "2026-06-24T07:52:36.774Z",
+      "duration": 2282618,
+      "group": "",
+      "pauses": [
+        {
+          "start": "2026-06-24T07:16:33.108Z",
+          "end": "2026-06-24T07:16:36.945Z"
+        },
+        {
+          "start": "2026-06-24T07:27:03.678Z",
+          "end": "2026-06-24T07:27:23.993Z"
+        }
+      ]
+    },
+    {
+      "start": "2026-06-24T02:24:35.711Z",
+      "end": "2026-06-24T03:39:11.066Z",
+      "duration": 4475355,
+      "group": "",
+      "pauses": []
+    },
+    {
+      "start": "2026-06-05T11:01:44.906Z",
+      "end": "2026-06-05T11:27:08.684Z",
+      "duration": 1500000,
+      "group": "",
+      "pauses": [
+        {
+          "start": "2026-06-05T11:26:56.623Z",
+          "end": "2026-06-05T11:27:08.684Z"
+        }
+      ]
+    },
+    {
+      "start": "2026-06-05T07:52:16.615Z",
+      "end": "2026-06-05T10:01:20.250Z",
+      "duration": 4500000,
+      "group": "",
+      "pauses": [
+        {
+          "start": "2026-06-05T08:05:21.205Z",
+          "end": "2026-06-05T08:06:41.853Z"
+        },
+        {
+          "start": "2026-06-05T08:54:24.681Z",
+          "end": "2026-06-05T09:13:27.095Z"
+        },
+        {
+          "start": "2026-06-05T09:13:35.681Z",
+          "end": "2026-06-05T09:13:52.005Z"
+        },
+        {
+          "start": "2026-06-05T09:17:23.830Z",
+          "end": "2026-06-05T09:37:02.737Z"
+        },
+        {
+          "start": "2026-06-05T09:57:55.120Z",
+          "end": "2026-06-05T10:01:20.250Z"
+        }
+      ]
+    },
+    {
+      "start": "2026-04-18T06:43:36.034Z",
+      "end": "2026-04-18T08:05:50.113Z",
+      "duration": 4934079,
+      "group": ""
+    },
+    {
+      "start": "2026-04-09T08:12:50.223Z",
+      "end": "2026-04-09T08:48:52.801Z",
+      "duration": 2162578,
+      "group": ""
+    },
+    {
+      "start": "2026-04-06T10:03:39.999Z",
+      "end": "2026-04-06T11:08:05.964Z",
+      "duration": 3628008,
+      "group": ""
+    },
+    {
+      "start": "2026-04-06T00:00:25.831Z",
+      "end": "2026-04-06T00:40:12.547Z",
+      "duration": 3601273,
+      "group": ""
+    },
+    {
+      "start": "2026-04-03T07:52:04.174Z",
+      "end": "2026-04-03T12:26:37.538Z",
+      "duration": 16473364,
+      "group": ""
+    },
+    {
+      "start": "2026-02-01T02:32:46.215Z",
+      "end": "2026-02-01T05:43:07.324Z",
+      "duration": 11421109,
+      "group": ""
+    },
+    {
+      "start": "2026-01-30T14:15:36.105Z",
+      "end": "2026-01-30T15:01:09.017Z",
+      "duration": 2732912,
+      "group": ""
+    },
+    {
+      "start": "2026-01-29T06:30:32.355Z",
+      "end": "2026-01-29T09:26:55.601Z",
+      "duration": 10583246,
+      "group": ""
+    },
+    {
+      "start": "2026-01-20T11:33:49.603Z",
+      "end": "2026-01-20T14:32:33.395Z",
+      "duration": 10723793,
+      "group": ""
+    },
+    {
+      "start": "2026-01-17T01:33:23.783Z",
+      "end": "2026-01-17T03:51:42.561Z",
+      "duration": 8298778,
+      "group": ""
+    },
+    {
+      "start": "2026-01-15T16:02:39.436Z",
+      "end": "2026-01-15T19:59:39.763Z",
+      "duration": 17911432,
+      "group": ""
+    }
+  ],
+  "todos": [
+    {
+      "text": "勉強",
+      "completed": false,
+      "id": 1775434464157,
+      "repeat": "daily",
+      "priority": "high",
+      "createdAt": "2026-04-06T00:14:24.157Z",
+      "completionStages": {
+        "stage1": true,
+        "stage2": false,
+        "stage3": false
+      },
+      "period": {
+        "start": null,
+        "end": null,
+        "dates": []
+      },
+      "lastCompleted": "2026-07-14T22:06:15.233Z",
+      "order": 0
+    }
+  ],
+  "settings": {
+    "theme": "green",
+    "last_valid_theme": "green",
+    "mode": "light",
+    "app_language": "ja",
+    "font_ja": "Zen Maru Gothic",
+    "font_en": "Jost",
+    "feature_music": "true",
+    "feature_todo": "true",
+    "feature_title_time": "false",
+    "feature_loading_anim": "true",
+    "feature_stop_music_on_timer_end": "true",
+    "feature_music_resume_on_tap_after_reload": "true",
+    "music_resume_window_min": "5",
+    "lock_settings_during_timer": "true",
+    "feature_focus_mode_display": "true",
+    "focus_mode_enabled": "true",
+    "focus_duration": "25",
+    "break_duration": "5",
+    "session_info_custom_text": "さっさとやれ",
+    "graph_enabled": "true",
+    "graph_type": "area",
+    "graph_period": "all",
+    "graph_location": "stats",
+    "todo_v2_enabled": "true",
+    "todo_v2_prompt_shown": "true",
+    "todo_priority_colors": "{\"high\":\"#99BDA3\",\"normal\":\"#ADC29F\",\"low\":\"#BECFBA\"}",
+    "tutorial_completed": "true",
+    "dev_mode_enabled": "false",
+    "mini_player_enabled": "false",
+    "mini_player_hide_skip": "false",
+    "mini_player_auto_hide": "30",
+    "mini_player_position": "bottom-right",
+    "menu_mode": "bottom",
+    "menu_display": "icon_text",
+    "menu_fixed": "false",
+    "menu_wide_overflow": "false",
+    "menu_order": "[\"timer\",\"stats\",\"list\",\"music\",\"todo\"]",
+    "menu_visibility": "{\"timer\":true,\"stats\":true,\"list\":true,\"music\":true,\"todo\":true}",
+    "tutorial_welcome_dismissed": "true",
+    "music_shuffle": "false",
+    "mini_player_free_place": "false",
+    "auto_pip_primed": "false",
+    "feature_auto_pip": "false",
+    "music_volume": "1",
+    "youtube_music_enabled": "true",
+    "mini_player_free_y": "70.61",
+    "flashcard_random_order": "true",
+    "mini_player_free_x": "68.94",
+    "music_loop": "false",
+    "tsumiki_has_visited": "true",
+    "flashcards": "{\"groups\":[{\"id\":\"mqp3svbhhl8hsser5\",\"name\":\"a\",\"cards\":[{\"id\":\"mqp3vabe5vfs7lods\",\"type\":\"normal\",\"front\":\"間奏\",\"back\":\"\",\"flip\":false},{\"id\":\"mqp3tfdds6umk9s9c\",\"type\":\"normal\",\"front\":\"アアア…\",\"back\":\"足りないもの なーんだ\",\"flip\":true},{\"id\":\"mqp3ttei91yz5cuw1\",\"type\":\"normal\",\"front\":\"僕らの人生\",\"back\":\"正解どこなんだ\",\"flip\":true},{\"id\":\"mqp3tzs988u31hzkt\",\"type\":\"normal\",\"front\":\"探せよ\",\"back\":\"探せ\",\"flip\":true},{\"id\":\"mqp3u5jemj880tnh1\",\"type\":\"normal\",\"front\":\"あー\",\"back\":\"例外ない\",\"flip\":true},{\"id\":\"mqp3uebdmvolr7v5o\",\"type\":\"normal\",\"front\":\"二進も\",\"back\":\"三進も\",\"flip\":true},{\"id\":\"mqp3urqu2z1qf6rfo\",\"type\":\"normal\",\"front\":\"零下以内なら\",\"back\":\"劣化以外ない\",\"flip\":true},{\"id\":\"mqp3uz14qxsavea8c\",\"type\":\"normal\",\"front\":\"正味クソゲーだ\",\"back\":\"カラ空回れ\",\"flip\":true},{\"id\":\"mqp3v6dug16bwyrpk\",\"type\":\"normal\",\"front\":\"(間奏)\",\"back\":\"\",\"flip\":false},{\"id\":\"mqp3vmixyjhsnjgmv\",\"type\":\"normal\",\"front\":\"アアア…\",\"back\":\"倦怠モード\",\"flip\":true},{\"id\":\"mqp3vvn01i5s6e8p0\",\"type\":\"normal\",\"front\":\"「苦」だ\",\"back\":\"僕らの人生\",\"flip\":true},{\"id\":\"mqp3w2eu0iqg7he0g\",\"type\":\"normal\",\"front\":\"校内猛毒だ\",\"back\":\"\",\"flip\":false},{\"id\":\"mqp3w8xex7izlbkax\",\"type\":\"normal\",\"front\":\"屈めよ\",\"back\":\"屈め\",\"flip\":true},{\"id\":\"mqp3wgxa1bry2jdag\",\"type\":\"normal\",\"front\":\"あー\",\"back\":\"盛大KNIGHT\",\"flip\":true},{\"id\":\"mqp3wqz6w9ljuqvej\",\"type\":\"normal\",\"front\":\"和気あいゴッコは\",\"back\":\"成敗DIE\",\"flip\":true},{\"id\":\"mqp3wz542a71cr6or\",\"type\":\"normal\",\"front\":\"by 生産性ない\",\"back\":\"後悔もう\",\"flip\":true},{\"id\":\"mqp3x7blqb96r8tcu\",\"type\":\"normal\",\"front\":\"「独」だ\",\"back\":\"笑えよ\",\"flip\":true},{\"id\":\"mqp3xbtpozx9ix5p5\",\"type\":\"normal\",\"front\":\"笑え\",\"back\":\"\",\"flip\":false},{\"id\":\"mqp3xnlppjb500j91\",\"type\":\"normal\",\"front\":\"心のレシピは\",\"back\":\"かまちょ味寂ジャンキー\",\"flip\":true},{\"id\":\"mqp3xvjohq6y8986i\",\"type\":\"normal\",\"front\":\"だんだん強がって\",\"back\":\"ドロドロに伏す\",\"flip\":true},{\"id\":\"mqp3y54rdvj9gtiim\",\"type\":\"normal\",\"front\":\"ドクドク\",\"back\":\"呑み込んで\",\"flip\":true},{\"id\":\"mqp3yjz7tg60fr2ro\",\"type\":\"normal\",\"front\":\"苦しんで泣いて\",\"back\":\"吐き出せないの\",\"flip\":true},{\"id\":\"mqp3yrzmvzs1anykx\",\"type\":\"normal\",\"front\":\"ベノベノム\",\"back\":\"さよなラ\",\"flip\":true}]},{\"id\":\"mqtfdtalxvvhtzltj\",\"name\":\"aaa\",\"cards\":[]}]}"
+  },
+  "music": {
+    "playlists": [
+      {
+        "id": "pl_1783582723535_tmn6bm",
+        "name": "なんか",
+        "tracks": [
+          {
+            "title": "アンヘル (feat.鳴花ミコト)",
+            "youtubeId": "Fs6-S1wIiM0"
+          },
+          {
+            "title": "マイナスレッテル (CherryRed Flavor)",
+            "youtubeId": "ZK84ZTfVrvs"
+          },
+          {
+            "title": "かめりあ - ヒアソビ (feat. 初音ミク) 【Electroswing】",
+            "youtubeId": "od4QcDPpNVk"
+          },
+          {
+            "title": "ベノム",
+            "youtubeId": "JeXFDfVCcq4"
+          },
+          {
+            "title": "永遠にゲームで対戦したいキリタン",
+            "youtubeId": "5uFrdGMo684"
+          },
+          {
+            "title": "×",
+            "youtubeId": "vwxv0OKyu5c"
+          },
+          {
+            "title": "シアワセトリッパー",
+            "youtubeId": "l9bQHCNPtNI"
+          },
+          {
+            "title": "失敗作少女 (REBOOT ver.)",
+            "youtubeId": "SnTRAB74p9I"
+          },
+          {
+            "title": "ココロナンセンス (REBOOT ver.)",
+            "youtubeId": "e1Ol0bxGUaM"
+          },
+          {
+            "title": "レミングミング",
+            "youtubeId": "cauCwtqLCy0"
+          }
+        ]
+      }
+    ]
+  }
+}
